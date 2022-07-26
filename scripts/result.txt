@@ -1,0 +1,4 @@
+============ failed cases =============
+./test_resnet50_vd.py
+./test_yolov5s.py
+total bugs: 2

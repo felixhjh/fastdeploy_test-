@@ -1,0 +1,14 @@
+resnet50_vd :
+        topk1 : 0.792
+        #topk1 : 0.7
+        topk5 : 0.946
+        #topk5 : 1
+yolov5s :
+        Precision : 0.666
+        Recall : 0.500
+        mAP@.5 : 0.551
+        mAP@.5:.95 : 0.367
+        #Precision: 0.429 
+        #Recall: 0.462 
+        #mAP@.5: 0.453 
+        #mAP@.5:.95: 0.302
