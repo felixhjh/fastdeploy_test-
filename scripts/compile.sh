@@ -1,8 +1,6 @@
 #!/bin/bash
 
 export CODE_PATH=/huangjianhui/fastdeploy_test/code
-export http_proxy=http://172.19.56.199:3128
-export https_proxy=http://172.19.56.199:3128
 export fastdeploy_dir=${CODE_PATH}/FastDeploy
 echo ${fastdeploy_dir}
 
